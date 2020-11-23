@@ -1,0 +1,15 @@
+img {
+    max-width: 100%;
+}
+
+body {
+    font-family: Sans-Serif;
+    color: whitesmoke;
+    background-color: red;
+}
+
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+
+}
